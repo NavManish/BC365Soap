@@ -1,0 +1,27 @@
+{
+  "id": "818bbc0e-8296-45f7-bdae-6798210a9e2c",
+  "name": "WebSrvIntegration",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "showMyCode": true,
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "features": [
+    "TranslationFile"
+  ],
+  "idRange": {
+    "from": 50100,
+    "to": 99999
+  },
+  "runtime": "2.0"
+}

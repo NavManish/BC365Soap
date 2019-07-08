@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="WebSrvIntegration">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3279009304 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Moulton Order History</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OrderHistory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279009304 - Field 942250473 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Moulton Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OrderHistory - Field Moulton Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279009304 - Field 1441105596 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WS Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OrderHistory - Field WS Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279009304 - Field 1396220977 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WS Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OrderHistory - Field WS Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279009304 - Field 3414364457 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Extension</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OrderHistory - Field File Extension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279009304 - Field 2632124822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OrderHistory - Field Order Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279009304 - Field 1105970954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OrderHistory - Field Ship Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279009304 - Field 2685424608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SOAP Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OrderHistory - Field SOAP Request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279009304 - Field 483729730 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SOAP Response</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OrderHistory - Field SOAP Response - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279009304 - Field 599268985 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SOAP Response DateTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OrderHistory - Field SOAP Response DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279009304 - Field 4089529863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SOAP Request DateTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OrderHistory - Field SOAP Request DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279009304 - Field 4145127342 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OrderHistory - Field Order Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279009304 - Field 4145127342 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Open,Shipped,Cancelled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OrderHistory - Field Order Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279009304 - Field 4053670401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SOAP Response without NS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OrderHistory - Field SOAP Response without NS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279009304 - Field 2113466595 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Carrier Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OrderHistory - Field Carrier Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279009304 - Field 2205837876 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OrderHistory - Field Service Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279009304 - Field 1663794414 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table OrderHistory - Field Group Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3279009304 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OrderHistory List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OrderHistory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3279009304 - Control 942250473 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Moulton Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OrderHistory - Control Moulton Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3279009304 - Control 1441105596 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WS Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OrderHistory - Control WS Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3279009304 - Control 1396220977 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WS Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OrderHistory - Control WS Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3279009304 - Control 1105970954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OrderHistory - Control Ship Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3279009304 - Control 2632124822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OrderHistory - Control Order Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3279009304 - Control 2113466595 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Carrier Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OrderHistory - Control Carrier Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3279009304 - Control 2205837876 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OrderHistory - Control Service Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3279009304 - Control 4089529863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SOAP Request DateTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OrderHistory - Control SOAP Request DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3279009304 - Control 599268985 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SOAP Response DateTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OrderHistory - Control SOAP Response DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3279009304 - Action 2482284147 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Order Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OrderHistory - Action Check Order Request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3279009304 - Action 2482284147 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Order Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OrderHistory - Action Check Order Request - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3279009304 - Action 2102732941 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Order Response</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OrderHistory - Action Check Order Response - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3279009304 - Action 2102732941 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Order Response</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OrderHistory - Action Check Order Response - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3279009304 - Action 1329769235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NoNS Order Response</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OrderHistory - Action NoNS Order Response - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3279009304 - Action 1329769235 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NoNS Order Response</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page OrderHistory - Action NoNS Order Response - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1732355894 - NamedType 517672982" size-unit="char" translate="yes" xml:space="preserve">
+          <source>http://schemas.xmlsoap.org/soap/envelope/&amp;#8217</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SOAP Document - NamedType SoapNS11Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1732355894 - NamedType 1096023667" size-unit="char" translate="yes" xml:space="preserve">
+          <source>http://www.w3.org/2003/05/soap-envelope&amp;#8217</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SOAP Document - NamedType SoapNS12Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1732355894 - NamedType 3130873343" size-unit="char" translate="yes" xml:space="preserve">
+          <source>http://www.w3.org/2001/XMLSchema-instance&amp;#8217</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SOAP Document - NamedType XsiNSLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1732355894 - NamedType 4091307532" size-unit="char" translate="yes" xml:space="preserve">
+          <source>http://www.w3.org/2001/XMLSchema&amp;#8217</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SOAP Document - NamedType XsdNSLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 632146417 - NamedType 3333736280" size-unit="char" translate="yes" xml:space="preserve">
+          <source>http://schemas.xmlsoap.org/soap/envelope/</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit WebSrv - NamedType SOAPNamespaceLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 632146417 - NamedType 1077327146" size-unit="char" translate="yes" xml:space="preserve">
+          <source>https://moultonordervision.com/Ws/OrderStatusWebService.asmx</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit WebSrv - NamedType XSDNamespaceLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 632146417 - NamedType 2725329485" size-unit="char" translate="yes" xml:space="preserve">
+          <source>multipart/form-data; charset=utf-8</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit WebSrv - NamedType ContentTypeLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 2827549068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Soap Test Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Soap Test Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2827549068 - Action 1720901350 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Soap Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Soap Test Page - Action Create Soap Message - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
